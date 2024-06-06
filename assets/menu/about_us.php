@@ -50,6 +50,202 @@ include '../php/functions.php';
             <li>Layanan Riset dan Referensi</li>
         </ul>
     </section>
+    <section class="mb-5">
+        <h2 class="mb-4">Gambar Produk</h2>
+
+        <div class="row justify-content-between text-start">
+            <div class="col-12 col-lg-4">
+                <div class="card p-3 mb-3">
+                    
+                    <div class="d-flex justify-content-between align-items-center ">
+                        <div class="mt-2">
+                            <h4 class="text-uppercase">Greenbook</h4>
+                            <div class="mt-5">
+                                <h5 class="text-uppercase mb-0">Belajar HTML</h5>
+                                <h2 class="main-heading mt-0">DigiTalent</h2>
+                                <div class="d-flex flex-row user-ratings">
+                                    <div class="ratings">
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    </div>
+                                    <h6 class="text-muted ml-1">4/5</h6>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="image">
+                            <img src="https://m.media-amazon.com/images/I/51uVuUo0NGL.jpg" width="200">
+                        </div>
+                    </div>
+                    
+                    <div class="d-flex justify-content-between align-items-center mt-2 mb-2">
+   
+                        
+                    </div>
+                    
+                    <p>A great option weather you are at office or at home. </p>
+                    
+                    <button class="btn btn-secondary">Pinjam</button>
+                </div>
+            </div><div class="w-100 d-block d-lg-none"></div>
+            <div class="col-12 col-lg-4">
+                <div class="card p-3 mb-3">
+                    
+                    <div class="d-flex justify-content-between align-items-center ">
+                        <div class="mt-2">
+                            <h4 class="text-uppercase">Greenbook</h4>
+                            <div class="mt-5">
+                                <h5 class="text-uppercase mb-0">Belajar CSS</h5>
+                                <h2 class="main-heading mt-0">DigiTalent</h2>
+                                <div class="d-flex flex-row user-ratings">
+                                    <div class="ratings">
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    </div>
+                                    <h6 class="text-muted ml-1">4/5</h6>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="image">
+                            <img src="https://m.media-amazon.com/images/I/51Gh1bFIMlL.jpg" width="200">
+                        </div>
+                    </div>
+                    
+                    <div class="d-flex justify-content-between align-items-center mt-2 mb-2">
+   
+                        
+                    </div>
+                    
+                    <p>A great option weather you are at office or at home. </p>
+                    
+                    <button class="btn btn-secondary">Pinjam</button>
+                </div>
+            </div><div class="w-100 d-block d-lg-none"></div>
+            <div class="col-12 col-lg-4">
+                <div class="card p-3 mb-3">
+                    
+                    <div class="d-flex justify-content-between align-items-center ">
+                        <div class="mt-2">
+                            <h4 class="text-uppercase">Greenbook</h4>
+                            <div class="mt-5">
+                                <h5 class="text-uppercase mb-0">Belajar JS</h5>
+                                <h2 class="main-heading mt-0">DigiTalent</h2>
+                                <div class="d-flex flex-row user-ratings">
+                                    <div class="ratings">
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    </div>
+                                    <h6 class="text-muted ml-1">4/5</h6>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="image">
+                            <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zBRkcBbsjWzcPjtcxqhb3Q.jpeg" width="200">
+                        </div>
+                    </div>
+                    
+                    <div class="d-flex justify-content-between align-items-center mt-2 mb-2">
+   
+                        
+                    </div>
+                    
+                    <p>A great option weather you are at office or at home. </p>
+                    
+                    <button class="btn btn-secondary">Pinjam</button>
+                </div>
+            </div>
+        </div>
+
+
+
+    </section>
+
+    <section class="mb-5">
+        <div class="row justify-content-between text-start">
+            <div class="col-12 col-lg-4">
+                <div class="card p-3 mb-3">
+                    
+                    <div class="d-flex justify-content-between align-items-center ">
+                        <div class="mt-2">
+                            <h4 class="text-uppercase">Greenbook</h4>
+                            <div class="mt-5">
+                                <h5 class="text-uppercase mb-0">Belajar PHP</h5>
+                                <h2 class="main-heading mt-0">DigiTalent</h2>
+                                <div class="d-flex flex-row user-ratings">
+                                    <div class="ratings">
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    </div>
+                                    <h6 class="text-muted ml-1">4/5</h6>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="image">
+                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUWrzlH7xlu1Zt-Da6fsP12b2Pu3O-u3_Nrw&s" width="200">
+                        </div>
+                    </div>
+                    
+                    <div class="d-flex justify-content-between align-items-center mt-2 mb-2">
+   
+                        
+                    </div>
+                    
+                    <p>A great option weather you are at office or at home. </p>
+                    
+                    <button class="btn btn-secondary">Pinjam</button>
+                </div>
+            </div><div class="w-100 d-block d-lg-none"></div>
+            <div class="col-12 col-lg-4">
+                <div class="card p-3 mb-3">
+                    
+                    <div class="d-flex justify-content-between align-items-center ">
+                        <div class="mt-2">
+                            <h4 class="text-uppercase">Greenbook</h4>
+                            <div class="mt-5">
+                                <h5 class="text-uppercase mb-0">Belajar C#</h5>
+                                <h2 class="main-heading mt-0">DigiTalent</h2>
+                                <div class="d-flex flex-row user-ratings">
+                                    <div class="ratings">
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    </div>
+                                    <h6 class="text-muted ml-1">4/5</h6>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="image">
+                            <img src="https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4842-7147-6" width="200">
+                        </div>
+                    </div>
+                    
+                    <div class="d-flex justify-content-between align-items-center mt-2 mb-2">
+   
+                        
+                    </div>
+                    
+                    <p>A great option weather you are at office or at home. </p>
+                    
+                    <button class="btn btn-secondary">Pinjam</button>
+                </div>
+            </div><div class="w-100 d-block d-lg-none"></div>
+            <div class="col-12 col-lg-4">
+                
+            </div>
+        </div>
+
+
+
+    </section>
+
 
     <section class="mb-5">
         <h2 class="mb-4">Galeri Foto</h2>

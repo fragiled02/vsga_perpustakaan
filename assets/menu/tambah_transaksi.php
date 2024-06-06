@@ -51,7 +51,7 @@
     foreach ($buku as $key => $value) {
         $nomor += 1;
         ?>
-        <option value="<?php echo(@$value['id']); ?>" <?php echo(@$value['id'] == $transaksi['id_buku'] ? 'selected' : ''); ?>>
+        <option value="<?php echo(@$value['id']); ?>" <?php echo(@$value['id'] == @$transaksi['id_buku'] ? 'selected' : ''); ?>>
         <?php echo(@$value['judul']); ?>
         </option>
     <?php
@@ -68,7 +68,7 @@
     foreach ($anggota as $key => $value) {
         $nomor += 1;
         ?>
-        <option value="<?php echo(@$value['id']); ?>" <?php echo(@$value['id'] == $transaksi['id_anggota'] ? 'selected' : ''); ?>>
+        <option value="<?php echo(@$value['id']); ?>" <?php echo(@$value['id'] == @$transaksi['id_anggota'] ? 'selected' : ''); ?>>
         <?php echo(@$value['nama']); ?>
         </option>
     <?php
