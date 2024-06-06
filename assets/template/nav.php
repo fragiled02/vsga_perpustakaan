@@ -5,7 +5,7 @@
         <!-- Container Navbar -->
     <div class="container-xl">
         <a class="navbar-brand" href="../php/home.php">
-        <img src="../img/readmi.png" alt="" width="42" height="44">
+        <img src="../img/readmi.svg" alt="" width="42" height="44">
         </a>
 
         <!-- Judul Navbar -->

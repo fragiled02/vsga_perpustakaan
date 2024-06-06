@@ -84,6 +84,14 @@
             >
         </div> 
 
+        <div class="form-group mb-3" style="<?php echo(@$komen == 'Update' ? 'display:block;' : 'display:none;'); ?>">
+            <label for="tanggal_kembali">Tanggal Kembali:</label>
+            <input type="date" class="form-control w-50" id="tanggal_kembali" name="tanggal_kembali" placeholder="Masukkan Tanggal Peminjaman Anda" required
+            value="<?php echo(@$transaksi['tanggal_kembali']); ?>"
+            >
+        </div> 
+
+
         <input class="d-none" type="hidden" name="id" value="<?php echo(@$transaksi['id']); ?>">
 
         <button type="submit" class="btn btn-primary">Submit</button>
