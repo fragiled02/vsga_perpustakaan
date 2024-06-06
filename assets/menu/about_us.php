@@ -75,7 +75,7 @@ include '../php/functions.php';
                             </div>
                         </div>
                         <div class="image">
-                            <img src="https://m.media-amazon.com/images/I/51uVuUo0NGL.jpg" width="200">
+                            <img class="rounded" src="https://m.media-amazon.com/images/I/51uVuUo0NGL.jpg" width="200">
                         </div>
                     </div>
                     
@@ -110,7 +110,7 @@ include '../php/functions.php';
                             </div>
                         </div>
                         <div class="image">
-                            <img src="https://m.media-amazon.com/images/I/51Gh1bFIMlL.jpg" width="200">
+                            <img class="rounded" src="https://m.media-amazon.com/images/I/51Gh1bFIMlL.jpg" width="200">
                         </div>
                     </div>
                     
@@ -145,7 +145,7 @@ include '../php/functions.php';
                             </div>
                         </div>
                         <div class="image">
-                            <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zBRkcBbsjWzcPjtcxqhb3Q.jpeg" width="200">
+                            <img class="rounded" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zBRkcBbsjWzcPjtcxqhb3Q.jpeg" width="200">
                         </div>
                     </div>
                     
@@ -188,7 +188,7 @@ include '../php/functions.php';
                             </div>
                         </div>
                         <div class="image">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUWrzlH7xlu1Zt-Da6fsP12b2Pu3O-u3_Nrw&s" width="200">
+                            <img class="rounded" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUWrzlH7xlu1Zt-Da6fsP12b2Pu3O-u3_Nrw&s" width="200">
                         </div>
                     </div>
                     
@@ -223,7 +223,7 @@ include '../php/functions.php';
                             </div>
                         </div>
                         <div class="image">
-                            <img src="https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4842-7147-6" width="200">
+                            <img class="rounded" src="https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4842-7147-6" width="200">
                         </div>
                     </div>
                     
