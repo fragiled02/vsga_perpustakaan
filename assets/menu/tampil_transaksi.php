@@ -72,16 +72,9 @@ INNER JOIN
 
 </main>
 
-<footer class="bg-dark">
-    <div class="container">
-        <p>Kontak: (123) 456-7890 | Email: contoh@gmail.com</p>
-        <p>Alamat: Jl. Contoh No. 123, Kota ABC</p>
-        <p>Jam Operasional: Senin - Jumat, 08:00 - 17:00</p>
-        <div class="social-media">
-            <a href="#">Facebook</a> | <a href="#">Twitter</a> | <a href="#">Instagram</a>
-        </div>
-    </div>
-</footer>
+<?php
+    include "../template/footer.php"
+?>
 
 </body>
     <script src="../bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js"></script>

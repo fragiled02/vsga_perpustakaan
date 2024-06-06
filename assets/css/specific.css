@@ -1,2 +1,13 @@
 
 
+@media screen and (orientation:landscape) {
+    .custom-max-w{
+        max-width: 20vw;
+    }
+}
+
+@media screen and (orientation:portrait) {
+    .custom-max-w{
+        max-width: 60vw;
+    }
+}

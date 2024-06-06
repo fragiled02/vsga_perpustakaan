@@ -4,6 +4,9 @@
 
         <!-- Container Navbar -->
     <div class="container-xl">
+        <a class="navbar-brand" href="../php/home.php">
+        <img src="../img/readmi.png" alt="" width="42" height="44">
+        </a>
 
         <!-- Judul Navbar -->
         <a class="navbar-brand fw-bolder" href="../php/home.php">ADMIN READMI</a>
@@ -16,17 +19,20 @@
         <!-- Isi Navbar -->
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-
             <li class="nav-item">
-            <a class="nav-link" href="./tampil_anggota.php">Tampil Anggota</a>
+            <a class="nav-link" href="./about_us.php">About Us</a>
             </li>
 
             <li class="nav-item">
-            <a class="nav-link" href="./tampil_buku.php">Tampil Buku</a>
+            <a class="nav-link" href="./tampil_anggota.php">Anggota</a>
             </li>
 
             <li class="nav-item">
-            <a class="nav-link" href="./tampil_transaksi.php">Tampil Transaksi</a>
+            <a class="nav-link" href="./tampil_buku.php">Buku</a>
+            </li>
+
+            <li class="nav-item">
+            <a class="nav-link" href="./tampil_transaksi.php">Transaksi</a>
             </li>
 
             <li class="nav-item">
